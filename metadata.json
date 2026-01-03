@@ -1,0 +1,7 @@
+{
+  "name": "Cryptid Command",
+  "description": "A dark, atmospheric landing page for the Cryptid Command channel where witnesses can submit supernatural encounters and evidence for analysis and archival.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
